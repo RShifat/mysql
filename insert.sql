@@ -1,0 +1,1 @@
+INSERT INTO table_name(FIELD_NAMES,FIELD_NAMES,..)VALUES(FIELD_WISE_VALUES,'FIELD_WISE_VALUES',...);   //string hole coutation r vitor likhte hobe
